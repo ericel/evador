@@ -7,7 +7,8 @@ The end game is to Evade obstacles as the car drives along the road. If player(Y
 
 The AI car is programmed to be able to recognize obstacles and evade them. First person to the finish line wins.
 
-USE WASD keyboard to move and drive car1.
+## uses WASD keyboard
+To control, move car one, you need to use the WASD keyboard
 
 ![Evador](assets/window.png)
 
